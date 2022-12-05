@@ -3,31 +3,31 @@
     {
       "cor": {
         "cor": "Orange",
-        "desc": "Selecionou laranja"
+        "desc": "A cor Orange significa alegria, vitalidade, prosperidade e sucesso. É uma cor quente resultado da mistura das cores primárias vermelho e amarelo. Está associada à criatividade, pois o seu uso desperta a mente e auxilia no processo de assimilação de novas ideias."
       }
     },
     {
       "cor": {
-        "cor": "Puple",
-        "desc": "Selecionou roxo"
+        "cor": "Purple",
+        "desc": "A cor Purple está ligada ao mundo místico e significa espiritualidade, magia e mistério. O roxo transmite a sensação de tristeza e introspecção. Estimula o contacto com o lado espiritual, proporcionando a purificação do corpo e da mente, e a libertação de medos e outras inquietações. É a cor da transformação."
       }
     },
     {
       "cor": {
         "cor": "Red",
-        "desc": "Selecionou vermelho"
+        "desc": "A cor Red significa paixão, energia e excitação. É uma cor quente. Está associada ao poder, à guerra, ao perigo e à violência. O vermelho é a cor do elemento fogo, do sangue e do coração humano. Simboliza a chama que mantém vivo o desejo, a excitação sexual e representa os sentimentos de amor e paixão."
       }
     },
     {
       "cor": {
         "cor": "Blue",
-        "desc": "Selecionou azul"
+        "desc": "A cor Blue significa tranquilidade, serenidade, harmonia e espiritualidade, mas também está associada à frieza, monotonia e depressão. Simboliza a água, o céu e o infinito."
       }
     },
     {
       "cor": {
         "cor": "Violet",
-        "desc": "Selecionou violeta"
+        "desc": "A cor Violet é a cor do equilíbrio e da espiritualidade. Além de estimular a calma, o que garante o equilíbrio, ela também favorece a intuição, o que nos conecta com aquilo que só pode ser alcançado se ouvimos nosso interior. Sendo assim, é uma cor ideal para quem está desenvolvendo um processo de autoconhecimento."
       }
     }
   ]
