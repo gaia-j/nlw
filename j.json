@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "cor": {
+        "cor": "Orange",
+        "desc": "Selecionou laranja"
+      }
+    },
+    {
+      "cor": {
+        "cor": "Puple",
+        "desc": "Selecionou roxo"
+      }
+    },
+    {
+      "cor": {
+        "cor": "Red",
+        "desc": "Selecionou vermelho"
+      }
+    },
+    {
+      "cor": {
+        "cor": "Blue",
+        "desc": "Selecionou azul"
+      }
+    },
+    {
+      "cor": {
+        "cor": "Violet",
+        "desc": "Selecionou violeta"
+      }
+    }
+  ]
+}
